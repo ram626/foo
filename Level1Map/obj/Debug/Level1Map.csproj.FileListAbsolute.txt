@@ -7,3 +7,12 @@ c:\users\ben\documents\visual studio 2012\Projects\Level1Map\Level1Map\obj\Debug
 c:\users\ben\documents\visual studio 2012\Projects\Level1Map\Level1Map\obj\Debug\Level1Map.exe
 c:\users\ben\documents\visual studio 2012\Projects\Level1Map\Level1Map\obj\Debug\Level1Map.pdb
 c:\users\ben\documents\visual studio 2012\Projects\Level1Map\Level1Map\obj\Debug\Level1Map.Form1.resources
+C:\x\foo\Level1Map\bin\Debug\Level1Map.exe.config
+C:\x\foo\Level1Map\obj\Debug\Level1Map.exe
+C:\x\foo\Level1Map\obj\Debug\Level1Map.pdb
+C:\x\foo\Level1Map\bin\Debug\Level1Map.exe
+C:\x\foo\Level1Map\bin\Debug\Level1Map.pdb
+C:\x\foo\Level1Map\obj\Debug\Level1Map.csprojResolveAssemblyReference.cache
+C:\x\foo\Level1Map\obj\Debug\Level1Map.Form1.resources
+C:\x\foo\Level1Map\obj\Debug\Level1Map.Properties.Resources.resources
+C:\x\foo\Level1Map\obj\Debug\Level1Map.csproj.GenerateResource.Cache
